@@ -1,0 +1,9 @@
+# images
+*.ppm
+*.png
+*.jpg
+*.gif
+
+*.class
+
+*/
